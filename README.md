@@ -1,0 +1,1 @@
+a very simple .javascript calculator that can log history, clear history and detect division by zero
